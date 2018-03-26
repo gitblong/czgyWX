@@ -1,0 +1,44 @@
+<view class="item">
+  <view class="left">
+    <image class="left_img" src="../../images/wenhao.jpg"></image>
+  </view>
+  <view class="right">
+    <text>基础信息</text>
+  </view>
+</view>
+
+<view class="item">
+  <view class="left">
+    <image class="left_img" src="../../images/wenhao.jpg"></image>
+  </view>
+  <view class="right">
+    <text>排污信息</text>
+  </view>
+</view>
+
+<view class="item">
+  <view class="left">
+    <image class="left_img" src="../../images/wenhao.jpg"></image>
+  </view>
+  <view class="right">
+    <text>行政许可证</text>
+  </view>
+</view>
+
+<view class="item">
+  <view class="left">
+    <image class="left_img" src="../../images/wenhao.jpg"></image>
+  </view>
+  <view class="right">
+    <text>环境自行检测</text>
+  </view>
+</view>
+
+<view class="item">
+  <view class="left">
+    <image class="left_img" src="../../images/wenhao.jpg"></image>
+  </view>
+  <view class="right">
+    <text>防止污染设施建设</text>
+  </view>
+</view>

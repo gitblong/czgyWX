@@ -1,0 +1,64 @@
+<!-- 头部部分 -->
+<view class="top">
+  <view class="top1">
+    <text>联系我们</text>
+  </view>
+  <view class="top2">
+    <text>2017-06-18  </text>
+    <text>工艺品商城专业版  </text>
+    <text>浏览次数：22</text>
+  </view>
+</view>
+
+<!-- 内容 -->
+<view class="content">
+  <view class="content_name">
+    <text>东莞工厂</text>
+  </view>
+  <view class="content_detail">
+    <text>电话：</text>
+    <text>86-769-832112199</text>
+  </view>
+
+  <view class="content_detail">
+    <text>传真：</text>
+    <text>86-769-832284297</text>
+  </view>
+
+  <view class="content_detail">
+    <text>电子邮箱：</text>
+    <text>19321323145@qq.com</text>
+  </view>
+
+  <view class="content_detail">
+    <text>地址：</text>
+    <text>中国广东省东莞市银都工业镇</text>
+
+  </view>
+ <view class="content_name">
+    <text>东莞工厂</text>
+  </view>
+  <view class="content_detail">
+    <text>电话：</text>
+    <text>86-769-832112199</text>
+  </view>
+
+  <view class="content_detail">
+    <text>传真：</text>
+    <text>86-769-832284297</text>
+  </view>
+
+  <view class="content_detail">
+    <text>电子邮箱：</text>
+    <text>19321323145@qq.com</text>
+  </view>
+
+  <view class="content_detail">
+    <text>地址：</text>
+    <text>中国广东省东莞市银都工业镇</text>
+
+  </view>
+
+
+
+</view>

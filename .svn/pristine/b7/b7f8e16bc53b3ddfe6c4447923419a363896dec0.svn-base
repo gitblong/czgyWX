@@ -1,0 +1,26 @@
+<!-- 头部部分 -->
+<view class="top">
+  <view class="top1">
+    <text>关于我们</text>
+  </view>
+  <view class="top2">
+    <text>2017-06-18  </text>
+    <text>工艺品商城专业版  </text>
+    <text>浏览次数：22</text>
+  </view>
+</view>
+
+
+<view class="content">
+  <view class="content_img">
+    <image class="content_img" src="../../images/xuke1.jpg"></image>
+  </view>
+  <view class="content_img">
+    <image src="../../images/xuke2.jpg"></image>
+  </view>
+  <view class="content_img">
+    <image src="../../images/xuke3.jpg"></image>
+  </view>
+ 
+
+</view>
